@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC Preta",
+            "price": 3.57
+        },
+        {
+            "id": 2,
+            "name": "Caderno Ben 10",
+            "price": 16.99
+        },
+        {
+            "id": 3,
+            "name": "Caneta BIC Azul",
+            "price": 3.69
+        }
+    ],
+    "clients": [
+        {
+            "id": 1,
+            "name": "Wleydson Lemos",
+            "login": "wleydson.lemos"
+        },
+        {
+            "id": 2,
+            "name": "Robson Santiago",
+            "login": "robson.santiago"
+        },
+        {
+            "id": 3,
+            "name": "Laura Beatriz",
+            "login": "laura.beatriz"
+        },
+        {
+            "id": 4,
+            "name": "Maria dos Santos",
+            "login": "maria.santos"
+        },
+        {
+            "id": 5,
+            "name": "Gabriel Sousa",
+            "login": "gabriel.sousa"
+        }
+    ]
+
+}
